@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
