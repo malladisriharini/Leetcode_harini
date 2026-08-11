@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/malladisriharini/Leetcode_harini/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
