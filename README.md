@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
@@ -140,4 +143,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
