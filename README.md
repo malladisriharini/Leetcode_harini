@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
 |  |
 | ------- |
