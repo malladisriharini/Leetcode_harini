@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/malladisriharini/Leetcode_harini/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/malladisriharini/Leetcode_harini/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/malladisriharini/Leetcode_harini/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/malladisriharini/Leetcode_harini/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/malladisriharini/Leetcode_harini/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
