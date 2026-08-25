@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/malladisriharini/Leetcode_harini/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/malladisriharini/Leetcode_harini/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/malladisriharini/Leetcode_harini/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
