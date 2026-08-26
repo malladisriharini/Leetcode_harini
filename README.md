@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
+| [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/malladisriharini/Leetcode_harini/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Union-Find
