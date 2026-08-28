@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/malladisriharini/Leetcode_harini/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
