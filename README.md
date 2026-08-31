@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/malladisriharini/Leetcode_harini/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/malladisriharini/Leetcode_harini/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/malladisriharini/Leetcode_harini/tree/master/2523-closest-prime-numbers-in-range) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/malladisriharini/Leetcode_harini/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/malladisriharini/Leetcode_harini/tree/master/3115-maximum-prime-difference) |
@@ -212,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/malladisriharini/Leetcode_harini/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/malladisriharini/Leetcode_harini/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sliding Window
