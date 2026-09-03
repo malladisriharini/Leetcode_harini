@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
