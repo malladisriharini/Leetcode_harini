@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/0872-leaf-similar-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/malladisriharini/Leetcode_harini/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/0872-leaf-similar-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/0872-leaf-similar-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/malladisriharini/Leetcode_harini/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List
