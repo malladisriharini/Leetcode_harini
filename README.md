@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0501-find-mode-in-binary-search-tree) |
