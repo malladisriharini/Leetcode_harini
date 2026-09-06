@@ -4,7 +4,7 @@ class Solution {
 public:
     int countPrimes(int n) {
         if(n<=2) return 0;
-    vector<char>isprime(n,1);
+    vector<char>isprime(n,1);   //char vector instead of bool 
     isprime[0]=isprime[1]=0;
 
     for(int i=2;i*i<n;i++){
