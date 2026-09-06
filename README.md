@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
 | [2614-prime-in-diagonal](https://github.com/malladisriharini/Leetcode_harini/tree/master/2614-prime-in-diagonal) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
