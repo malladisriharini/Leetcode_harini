@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+int ans=0;
 pair<int,int> find(TreeNode* root){
     if(root==NULL) return {0,0};
     pair<int,int>left=find(root->left);
@@ -18,19 +19,14 @@ pair<int,int> find(TreeNode* root){
     int sum=root->val+left.first+right.first;
     int cnt=1+left.second+right.second;
 
+    if(root->val== sum/cnt) ans++;
+
     return {sum,cnt};
 
 }
     int averageOfSubtree(TreeNode* root) {
-    if(root==NULL) return 0;
-    int cnt=0;
-    pair<int,int>p=find(root);
-    int sum=p.first;
-    int nodes=p.second;
-    if(root->val==sum/nodes) cnt++;
-    cnt+=averageOfSubtree(root->left);
-    cnt+=averageOfSubtree(root->right);
-    return cnt;
+find(root);
+return ans;
 
         
     }
