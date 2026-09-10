@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/malladisriharini/Leetcode_harini/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/malladisriharini/Leetcode_harini/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/malladisriharini/Leetcode_harini/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/malladisriharini/Leetcode_harini/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/malladisriharini/Leetcode_harini/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
 | ------- |
