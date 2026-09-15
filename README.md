@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/malladisriharini/Leetcode_harini/tree/master/3115-maximum-prime-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3875-construct-uniform-parity-array-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## String
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Queue
 |  |
 | ------- |
