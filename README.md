@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/malladisriharini/Leetcode_harini/tree/master/0257-binary-tree-paths) |
+| [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0371-sum-of-two-integers) |
+| [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/malladisriharini/Leetcode_harini/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/malladisriharini/Leetcode_harini/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/malladisriharini/Leetcode_harini/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2315-count-asterisks](https://github.com/malladisriharini/Leetcode_harini/tree/master/2315-count-asterisks) |
 ## Math
