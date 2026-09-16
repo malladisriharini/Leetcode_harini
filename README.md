@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2315-count-asterisks](https://github.com/malladisriharini/Leetcode_harini/tree/master/2315-count-asterisks) |
 ## Math
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
