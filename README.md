@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/malladisriharini/Leetcode_harini/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -357,10 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -377,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
