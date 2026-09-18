@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -388,8 +390,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
