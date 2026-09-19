@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/malladisriharini/Leetcode_harini/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/malladisriharini/Leetcode_harini/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/malladisriharini/Leetcode_harini/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/malladisriharini/Leetcode_harini/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
 ## Number Theory
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/malladisriharini/Leetcode_harini/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/malladisriharini/Leetcode_harini/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0653-two-sum-iv-input-is-a-bst) |
