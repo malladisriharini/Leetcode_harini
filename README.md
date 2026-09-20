@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2315-count-asterisks](https://github.com/malladisriharini/Leetcode_harini/tree/master/2315-count-asterisks) |
+| [3498-reverse-degree-of-a-string](https://github.com/malladisriharini/Leetcode_harini/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/malladisriharini/Leetcode_harini/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
