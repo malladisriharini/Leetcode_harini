@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/malladisriharini/Leetcode_harini/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/malladisriharini/Leetcode_harini/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/malladisriharini/Leetcode_harini/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
