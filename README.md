@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/malladisriharini/Leetcode_harini/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/malladisriharini/Leetcode_harini/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/malladisriharini/Leetcode_harini/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/malladisriharini/Leetcode_harini/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/malladisriharini/Leetcode_harini/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0202-happy-number) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/malladisriharini/Leetcode_harini/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/malladisriharini/Leetcode_harini/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/malladisriharini/Leetcode_harini/tree/master/0200-number-of-islands) |
