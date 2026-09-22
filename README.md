@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2614-prime-in-diagonal](https://github.com/malladisriharini/Leetcode_harini/tree/master/2614-prime-in-diagonal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/malladisriharini/Leetcode_harini/tree/master/2315-count-asterisks) |
 | [3498-reverse-degree-of-a-string](https://github.com/malladisriharini/Leetcode_harini/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/malladisriharini/Leetcode_harini/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malladisriharini/Leetcode_harini/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0268-missing-number) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/malladisriharini/Leetcode_harini/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
