@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/malladisriharini/Leetcode_harini/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
+| [1046-last-stone-weight](https://github.com/malladisriharini/Leetcode_harini/tree/master/1046-last-stone-weight) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
 | [1310-xor-queries-of-a-subarray](https://github.com/malladisriharini/Leetcode_harini/tree/master/1310-xor-queries-of-a-subarray) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/malladisriharini/Leetcode_harini/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/malladisriharini/Leetcode_harini/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
