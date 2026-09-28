@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/malladisriharini/Leetcode_harini/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/malladisriharini/Leetcode_harini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/malladisriharini/Leetcode_harini/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/malladisriharini/Leetcode_harini/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/malladisriharini/Leetcode_harini/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/malladisriharini/Leetcode_harini/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/malladisriharini/Leetcode_harini/tree/master/0191-number-of-1-bits) |
