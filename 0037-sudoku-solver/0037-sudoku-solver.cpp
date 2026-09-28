@@ -23,7 +23,7 @@ bool solve(vector<vector<char>>&board){
 
 bool valid(int row,int col,vector<vector<char>>&board,char c){
     for(int i=0;i<9;i++){
-        if(board[row][i]==c) return false;    //check if that char is already present in that row,col,submatrix of n/3
+        if(board[row][i]==c) return false;    //check if that given char is already present in that row,col,submatrix of n/3
         if(board[i][col]==c) return false;
         if(board[3*(row/3)+i/3][3*(col/3)+i%3]==c) return false;
     }
