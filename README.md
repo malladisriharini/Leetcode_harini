@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/malladisriharini/Leetcode_harini/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/malladisriharini/Leetcode_harini/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/malladisriharini/Leetcode_harini/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3693-climbing-stairs-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/malladisriharini/Leetcode_harini/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/malladisriharini/Leetcode_harini/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/malladisriharini/Leetcode_harini/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/malladisriharini/Leetcode_harini/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2614-prime-in-diagonal](https://github.com/malladisriharini/Leetcode_harini/tree/master/2614-prime-in-diagonal) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/malladisriharini/Leetcode_harini/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/malladisriharini/Leetcode_harini/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
