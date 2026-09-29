@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/malladisriharini/Leetcode_harini/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3693-climbing-stairs-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/malladisriharini/Leetcode_harini/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/malladisriharini/Leetcode_harini/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3875-construct-uniform-parity-array-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/malladisriharini/Leetcode_harini/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/malladisriharini/Leetcode_harini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3693-climbing-stairs-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
