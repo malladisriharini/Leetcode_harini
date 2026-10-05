@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/malladisriharini/Leetcode_harini/tree/master/0299-bulls-and-cows) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0784-letter-case-permutation](https://github.com/malladisriharini/Leetcode_harini/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/malladisriharini/Leetcode_harini/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/malladisriharini/Leetcode_harini/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0241-different-ways-to-add-parentheses) |
+| [0856-score-of-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malladisriharini/Leetcode_harini/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malladisriharini/Leetcode_harini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
