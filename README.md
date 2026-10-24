@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/malladisriharini/Leetcode_harini/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/malladisriharini/Leetcode_harini/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2315-count-asterisks](https://github.com/malladisriharini/Leetcode_harini/tree/master/2315-count-asterisks) |
+| [2409-count-days-spent-together](https://github.com/malladisriharini/Leetcode_harini/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/malladisriharini/Leetcode_harini/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/malladisriharini/Leetcode_harini/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/malladisriharini/Leetcode_harini/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/malladisriharini/Leetcode_harini/tree/master/2409-count-days-spent-together) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/malladisriharini/Leetcode_harini/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/malladisriharini/Leetcode_harini/tree/master/2523-closest-prime-numbers-in-range) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2597-the-number-of-beautiful-subsets) |
