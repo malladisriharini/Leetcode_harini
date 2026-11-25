@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malladisriharini/Leetcode_harini/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/malladisriharini/Leetcode_harini/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/malladisriharini/Leetcode_harini/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malladisriharini/Leetcode_harini/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3693-climbing-stairs-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/3693-climbing-stairs-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malladisriharini/Leetcode_harini/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malladisriharini/Leetcode_harini/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/malladisriharini/Leetcode_harini/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/malladisriharini/Leetcode_harini/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## String
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/malladisriharini/Leetcode_harini/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/malladisriharini/Leetcode_harini/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malladisriharini/Leetcode_harini/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3871-count-commas-in-range-ii](https://github.com/malladisriharini/Leetcode_harini/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/malladisriharini/Leetcode_harini/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/malladisriharini/Leetcode_harini/tree/master/2614-prime-in-diagonal) |
 | [3115-maximum-prime-difference](https://github.com/malladisriharini/Leetcode_harini/tree/master/3115-maximum-prime-difference) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/malladisriharini/Leetcode_harini/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malladisriharini/Leetcode_harini/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/malladisriharini/Leetcode_harini/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malladisriharini/Leetcode_harini/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malladisriharini/Leetcode_harini/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search Tree
 |  |
 | ------- |
